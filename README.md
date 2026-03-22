@@ -10,8 +10,6 @@ Todo el entorno funciona dentro de una red local, sin necesidad de dominio públ
 
 ---
 
-¿Quieres que ajuste el tono o agregue algo más?
-
 ## Descripción del Proyecto
 Configuración de un servidor completo en Debian que incluye:
 - Servidor Web (Nginx)
